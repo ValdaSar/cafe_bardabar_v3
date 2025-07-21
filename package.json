@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@hookform/resolvers": "^5.1.1",
+    "@strapi/plugin-users-permissions": "^5.18.1",
+    "framer-motion": "^12.23.5",
+    "react-hook-form": "^7.60.0",
+    "strapi-plugin-redis": "^1.1.0",
+    "strapi-plugin-rest-cache": "^4.2.9",
+    "strapi-plugin-sentry": "^0.0.0",
+    "strapi-provider-rest-cache-redis": "^4.2.9",
+    "zod": "^4.0.5"
+  }
+}
